@@ -30,5 +30,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img src="https://github.com/user-attachments/assets/e67aad40-7d3c-4746-8e25-8c2cff8a0a7a" alt="LinkedIn" height="50" width="45" /></a>
 <a href="https://sajithmym.netlify.app" target="blank"><img src="https://sajithmym.netlify.app/assets/logo-no-background-7d01997d.png" alt="Portfolio" height="50" width="70" /></a>
-<a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://github.com/user-attachments/assets/577ec790-9bae-4013-bc1a-752c8c9b5be7" alt="Facebook" height="50" width="50" /></a>
+<a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84276601/350795285-a545d236-bd69-46e9-8b87-729c4f2b4d75.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T203903Z&X-Amz-Expires=300&X-Amz-Signature=b4d65fe36c5d7aacc44a255e57b3cfcb30ca3900a3b1402035cb8a34675f55e6&X-Amz-SignedHeaders=host&actor_id=84276601&key_id=0&repo_id=831847715" alt="Facebook" height="50" width="50" /></a>
 </p>

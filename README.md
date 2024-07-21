@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmym&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmym" /> </p>
 
-- 🔭 Studying BICT at the University of Kelaniya Sri Lanka**
+- 🔭 Studying BICT at the University of Kelaniya Sri Lanka.
 
-- 🌱 I’m currently learning **Machine Learning and Flutter**
+- 🌱 I’m currently learning **Machine Learning and Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://sajithmym.netlify.app/projects](https://sajithmym.netlify.app/projects)
 
-- 💬 Ask me about **React, Angular, NestJS, Django, and Python**
+- 💬 Ask me about **React, Angular, NestJS, Django, and Python.**
 
 - 📫 How to reach me **Sajithmym@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://sajithmym.netlify.app/Resume.pdf)
 
-- ⚡ Fun fact **I love gaming and gardening**
+- ⚡ Fun fact **I love gaming and gardening.**
 
 ### Projects:
 - [**Portfolio**](https://sajithmym.netlify.app/Deploy) - A personal portfolio website built with React.

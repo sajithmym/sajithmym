@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmym&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmym" /> </p>
 
-- 🔭 I’m currently working on **Patient Management System (Angular, Nest, MySQL)**
+- 🔭 Studying BICT at the University of Kelaniya Sri Lanka**
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Machine Learning and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sajithmym.netlify.app/projects](https://sajithmym.netlify.app/projects)
-
-- 📝 I regularly write articles on [https://sajithmym.netlify.app/blog](https://sajithmym.netlify.app/blog)
 
 - 💬 Ask me about **React, Angular, NestJS, Django, and Python**
 

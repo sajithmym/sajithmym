@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajith Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Sajith</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithmym&label=Profile%20views&color=0e75b6&style=flat" alt="sajithmym" /> </p>
@@ -51,8 +51,7 @@
 - [**Online Mobile Store**](https://github.com/sajithmym/Php_Project_Online_Mobile_Store) - An online mobile store built with PHP and MySQL.
 - [**Patient Management System**](https://github.com/sajithmym/Final-Year-Project) - A patient management system built with Angular, Nest, and MySQL.
 
-### GitHub Stats:
-![Sajithmym's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajithmym&show_icons=true&theme=dark)
+### GitHub State:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=compact&theme=dark)
 

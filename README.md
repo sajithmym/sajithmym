@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="mohamed-sajith-936877214" height="30" width="40" /></a>
 <a href="https://github.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="sajithmym" height="30" width="40" /></a>
 <a href="https://sajithmym.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -60,4 +61,11 @@ Feel free to reach out if you want to collaborate on projects or just want to co
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithmym&theme=dark" alt="sajithmym" />
+</p>
+
+### Connect with me:
+<p align="center">
+<a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://sajithmym.netlify.app" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>

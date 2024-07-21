@@ -21,25 +21,25 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="mohamed-sajith-936877214" height="30" width="40" /></a>
-<a href="https://github.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="sajithmym" height="30" width="40" /></a>
-<a href="https://sajithmym.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="mohamed-sajith-936877214" height="30" width="40" style="color:white" /></a>
+<a href="https://github.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="sajithmym" height="30" width="40" style="color:white" /></a>
+<a href="https://sajithmym.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="portfolio" height="30" width="40" style="color:white" /></a>
+<a href="https://www.facebook.com/sajithmym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" style="color:white" /></a>
 </p>
 
 ### Languages and Tools:
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="html5" height="40" width="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="css3" height="40" width="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="javascript" height="40" width="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="react" height="40" width="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="angular" height="40" width="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="nodejs" height="40" width="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="python" height="40" width="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" alt="firebase" height="40" width="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="mongodb" height="40" width="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="postgresql" height="40" width="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="git" height="40" width="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="html5" height="40" width="40" style="color:white" /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="css3" height="40" width="40" style="color:white" /> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="javascript" height="40" width="40" style="color:white" /> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="react" height="40" width="40" style="color:white" /> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="angular" height="40" width="40" style="color:white" /> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="nodejs" height="40" width="40" style="color:white" /> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="python" height="40" width="40" style="color:white" /> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" alt="firebase" height="40" width="40" style="color:white" /> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="mongodb" height="40" width="40" style="color:white" /> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="postgresql" height="40" width="40" style="color:white" /> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="git" height="40" width="40" style="color:white" /> </a> 
 </p>
 
 ### Projects:
@@ -64,7 +64,7 @@ Feel free to reach out if you want to collaborate on projects or just want to co
 
 ### Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://sajithmym.netlify.app" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="color:white" /></a>
+<a href="https://sajithmym.netlify.app" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" style="color:white" /></a>
+<a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" style="color:white" /></a>
 </p>

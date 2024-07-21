@@ -27,7 +27,7 @@
 - [**Patient Management System**](https://github.com/sajithmym/Final-Year-Project) - A patient management system built with Angular, Nest, and MySQL.
 
 ### Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/mohamed-sajith-936877214" target="blank"><img src="https://github.com/user-attachments/assets/e67aad40-7d3c-4746-8e25-8c2cff8a0a7a" alt="LinkedIn" height="50" width="45" /></a>
 <a href="https://sajithmym.netlify.app" target="blank"><img src="https://sajithmym.netlify.app/assets/logo-no-background-7d01997d.png" alt="Portfolio" height="50" width="70" /></a>
 <a href="https://www.facebook.com/sajithmym" target="blank"><img src="https://github.com/user-attachments/assets/577ec790-9bae-4013-bc1a-752c8c9b5be7" alt="Facebook" height="50" width="50" /></a>

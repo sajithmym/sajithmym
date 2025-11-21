@@ -19,36 +19,14 @@
 
 ### My Projects
 
-1. **Onadeyak.lk**  
-   https://onadeyak.lk/  
-   Tech: React, NestJS, PostgreSQL, JWT, Google Auth
+1. Onadeyak.lk – https://onadeyak.lk/ (Tech: React, NestJS, PostgreSQL, JWT, Google Auth)
+2. Gulf Sukuk – https://www.gulfsukuk.com/ (Tech: Next.js)
+3. Prompt Cody – https://prompt-cody.vercel.app/ (Tech: Next.js, MySQL – Add and manage prompts)
+4. Quran Sura Player – https://quran-sura-player.vercel.app/ (Tech: Next.js – Quran audio + download all 114 Surahs)
+5. Haadi QR & Barcode Generator – https://haadi-qr-and-brcode.vercel.app/ (Tech: Next.js – Generate QR codes and barcodes)
+6. AI Chatbot – https://chatbot-ai-two-zeta.vercel.app/ (Tech: Next.js, LLaMA models)
+7. Music Player – https://sajithmym.netlify.app/Python_Project (Tech: Python)
 
-2. **Gulf Sukuk**  
-   https://www.gulfsukuk.com/  
-   Tech: Next.js
-
-3. **Prompt Cody**  
-   https://prompt-cody.vercel.app/  
-   Tech: Next.js, MySQL  
-   Description: Add and manage prompts
-
-4. **Quran Sura Player**  
-   https://quran-sura-player.vercel.app/  
-   Tech: Next.js  
-   Description: Quran audio + download all 114 Surahs
-
-5. **Haadi QR & Barcode Generator**  
-   https://haadi-qr-and-brcode.vercel.app/  
-   Tech: Next.js  
-   Description: Generate QR codes and barcodes
-
-6. **AI Chatbot**  
-   https://chatbot-ai-two-zeta.vercel.app/  
-   Tech: Next.js, LLaMA models
-
-7. **Music Player**  
-   https://sajithmym.netlify.app/Python_Project  
-   Tech: Python
 
 ### Connect with me:
 <p align="left">

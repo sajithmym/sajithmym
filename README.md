@@ -17,14 +17,38 @@
 
 - ⚡ Fun fact **I love gaming and gardening.**
 
-### Projects:
-- [**Portfolio**](https://sajithmym.netlify.app/Deploy) - A personal portfolio website built with React.
-- [**Chat App**](https://sajithmym-chat.netlify.app/) - A chat application built with React and Firebase.
-- [**Ai Chatbot**](https://sajithmym.netlify.app/Django_Project) - An AI chatbot built with Django and MySQL.
-- [**Music Player**](https://sajithmym.netlify.app/Python_Project) - A music player built with Python.
-- [**Blog Post Webapp**](https://github.com/sajithmym/PostApp_FullStack) - A MERN stack blog post web application.
-- [**Online Mobile Store**](https://github.com/sajithmym/Php_Project_Online_Mobile_Store) - An online mobile store built with PHP and MySQL.
-- [**Patient Management System**](https://github.com/sajithmym/Final-Year-Project) - A patient management system built with Angular, Nest, and MySQL.
+### My Projects
+
+1. **Onadeyak.lk**  
+   https://onadeyak.lk/  
+   Tech: React, NestJS, PostgreSQL, JWT, Google Auth
+
+2. **Gulf Sukuk**  
+   https://www.gulfsukuk.com/  
+   Tech: Next.js
+
+3. **Prompt Cody**  
+   https://prompt-cody.vercel.app/  
+   Tech: Next.js, MySQL  
+   Description: Add and manage prompts
+
+4. **Quran Sura Player**  
+   https://quran-sura-player.vercel.app/  
+   Tech: Next.js  
+   Description: Quran audio + download all 114 Surahs
+
+5. **Haadi QR & Barcode Generator**  
+   https://haadi-qr-and-brcode.vercel.app/  
+   Tech: Next.js  
+   Description: Generate QR codes and barcodes
+
+6. **AI Chatbot**  
+   https://chatbot-ai-two-zeta.vercel.app/  
+   Tech: Next.js, LLaMA models
+
+7. **Music Player**  
+   https://sajithmym.netlify.app/Python_Project  
+   Tech: Python
 
 ### Connect with me:
 <p align="left">

@@ -16,29 +16,51 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-```typescript
-const sajith = {
-    pronouns: "he" | "him",
-    location: "Sri Lanka 🇱🇰",
-    education: "BICT @ University of Kelaniya",
-    currentFocus: ["Machine Learning", "Flutter"],
-    askMeAbout: ["React", "Angular", "NestJS", "Django", "Python"],
-    funFact: "I love gaming 🎮 and gardening 🌱"
-};
-```
+<table>
+<tr>
+<td width="50%">
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+### 🚀 Quick Facts
 
-- 🎓 **Studying** BICT at the University of Kelaniya, Sri Lanka
-- 🌱 **Currently Learning** Machine Learning & Flutter
-- 💼 **Open to** Freelance opportunities & collaborations
-- �� **Reach me at** [Sajithmym@gmail.com](mailto:Sajithmym@gmail.com)
-- 🌐 **Portfolio** [sajithmym.netlify.app](https://sajithmym.netlify.app)
-- 📄 **Resume** [View Here](https://sajithmym.netlify.app/Resume.pdf)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> &nbsp; Studying **BICT** at University of Kelaniya, Sri Lanka
 
-<br clear="right"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" width="20" /> &nbsp; Currently learning **Machine Learning** & **Flutter**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp; Open to **Freelance** opportunities & collaborations
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" /> &nbsp; Reach me at **[Sajithmym@gmail.com](mailto:Sajithmym@gmail.com)**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" /> &nbsp; Portfolio: **[sajithmym.netlify.app](https://sajithmym.netlify.app)**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="20" /> &nbsp; Resume: **[View Here](https://sajithmym.netlify.app/Resume.pdf)**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" /> &nbsp; Fun fact: I love **gaming** & **gardening** 🌱
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=donut&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💬 Ask Me About
+  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</div>
 
 ---
 

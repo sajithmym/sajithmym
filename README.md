@@ -41,7 +41,7 @@
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=donut&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-languages.svg" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -115,16 +115,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sajithmym&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Sajith's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="90%" src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-overview.svg" alt="GitHub Overview" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajithmym&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithmym&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithmym&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true&custom_title=Sajithmym's%20Contribution%20Graph" alt="Contribution Graph" width="90%"/>
 </div>
 
 ---
@@ -132,7 +127,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajithmym&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img width="90%" src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-achievements.svg" alt="GitHub Achievements"/>
 </div>
 
 ---

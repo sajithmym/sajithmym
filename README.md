@@ -110,27 +110,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-overview.svg" alt="GitHub Overview" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithmym&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true&custom_title=Sajithmym's%20Contribution%20Graph" alt="Contribution Graph" width="90%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-achievements.svg" alt="GitHub Achievements"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 

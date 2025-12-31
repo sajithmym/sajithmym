@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -24,19 +24,19 @@
 
 ### 🚀 Quick Facts
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> &nbsp; Studying **BICT** at University of Kelaniya, Sri Lanka
+🎓 &nbsp; Studying **BICT** at University of Kelaniya, Sri Lanka
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" width="20" /> &nbsp; Currently learning **Machine Learning** & **Flutter**
+🌱 &nbsp; Currently learning **Machine Learning** & **Flutter**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp; Open to **Freelance** opportunities & collaborations
+💼 &nbsp; Open to **Freelance** opportunities & collaborations
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" /> &nbsp; Reach me at **[Sajithmym@gmail.com](mailto:Sajithmym@gmail.com)**
+📧 &nbsp; Reach me at **[Sajithmym@gmail.com](mailto:Sajithmym@gmail.com)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" /> &nbsp; Portfolio: **[sajithmym.netlify.app](https://sajithmym.netlify.app)**
+🌐 &nbsp; Portfolio: **[sajithmym.netlify.app](https://sajithmym.netlify.app)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="20" /> &nbsp; Resume: **[View Here](https://sajithmym.netlify.app/Resume.pdf)**
+📄 &nbsp; Resume: **[View Here](https://sajithmym.netlify.app/Resume.pdf)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" /> &nbsp; Fun fact: I love **gaming** & **gardening** 🌱
+🎮 &nbsp; Fun fact: I love **gaming** & **gardening** 🌱
 
 </td>
 <td width="50%">

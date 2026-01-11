@@ -1,18 +1,11 @@
-<div align="center">
-  
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sajith%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Sri%20Lanka&descAlignY=52&descSize=18"/>
+# Sajith Mohamed
+### Full-Stack Developer | Sri Lanka
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;React+%7C+Angular+%7C+Next.js+Developer;NestJS+%7C+Django+Backend+Expert;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
+**Building Modern Web Applications** • React | Angular | Next.js Developer • NestJS | Django Backend Expert • Machine Learning Enthusiast
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sajithmym&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/sajithmym?tab=followers"><img src="https://img.shields.io/github/followers/sajithmym?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/></a>
-</p>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=sajithmym&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sajithmym?label=Followers&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/sajithmym?label=Total%20Stars&style=flat-square&color=yellow)
 
 ---
 
@@ -41,7 +34,11 @@
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-languages.svg" width="100%" alt="Top Languages"/>
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sajithmym&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 </td>
 </tr>
@@ -135,27 +132,18 @@
 
 ---
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 📈 GitHub Activity
 
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithmym&theme=github-compact&hide_border=true)
 
----
+### 📊 Contribution Stats
 
-<div align="center">
-  
-### 🐍 Contribution Snake
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajithmym/sajithmym/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajithmym/sajithmym/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sajithmym/sajithmym/output/github-snake.svg" />
-</picture>
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajithmym&theme=transparent&hide_border=true)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<div align="center">
+
+**Thank you for visiting my profile!** • [Let's connect](https://linkedin.com/in/mohamed-sajith-936877214)
+
+</div>

@@ -11,6 +11,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚀 Quick Facts
 
 🎓 &nbsp; Studying **BICT** at University of Kelaniya, Sri Lanka
@@ -26,6 +30,19 @@
 📄 &nbsp; Resume: **[View Here](https://sajithmym.netlify.app/Resume.pdf)**
 
 🎮 &nbsp; Fun fact: I love **gaming** & **gardening** 🌱
+
+</td>
+<td width="50%">
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sajithmym&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithmym&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -122,10 +139,6 @@
 ### 📊 Contribution Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajithmym&theme=transparent&hide_border=true)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sajithmym/sajithmym/output/github-contribution-grid-snake.svg)
 
 ---
 

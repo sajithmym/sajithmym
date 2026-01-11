@@ -1,0 +1,3 @@
+# Ignore auto-generated assets
+assets/metrics-*.svg
+assets/github-*.svg

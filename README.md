@@ -103,7 +103,7 @@
 | **🏪 Onadeyak.lk** | Full-featured e-commerce platform | React, NestJS, PostgreSQL, JWT | [Visit](https://onadeyak.lk/) |
 | **�� Gulf Sukuk** | Islamic finance investment platform | Next.js | [Visit](https://www.gulfsukuk.com/) |
 | **🤖 AI Chatbot** | Intelligent conversational AI assistant | Next.js, LLaMA | [Visit](https://chatbot-ai-two-zeta.vercel.app/) |
-| **📝 Prompt Cody** | Prompt management system | Next.js, MySQL | [Visit](https://prompt-cody.vercel.app/) |
+| **📝 Prompt Cody** | Prompt management system | Next.js, MySQL | [Visit](https://oclly-prompt.vercel.app/) |
 | **�� Quran Sura Player** | Audio player for all 114 Surahs | Next.js | [Visit](https://quran-sura-player.vercel.app/) |
 | **📱 Haadi QR Generator** | QR & Barcode generation tool | Next.js | [Visit](https://haadi-qr-and-brcode.vercel.app/) |
 | **🎵 Music Player** | Desktop music player application | Python | [Visit](https://sajithmym.netlify.app/Python_Project) |

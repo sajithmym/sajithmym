@@ -98,7 +98,7 @@
 
 | Project                   | Description                             | Tech Stack                     | Link                                                  |
 | ------------------------- | --------------------------------------- | ------------------------------ | ----------------------------------------------------- |
-| **🏪 shanikava.lk**       | Full-featured e-commerce platform       | React, NestJS, PostgreSQL, JWT | [Visit](https://shanikava.lk/)                        |
+| **🏪 Shanikava.lk**       | Full-featured e-commerce platform       | React, NestJS, PostgreSQL, JWT | [Visit](https://shanikava.lk/)                        |
 | **�� Gulf Sukuk**         | Islamic finance investment platform     | Next.js                        | [Visit](https://www.gulfsukuk.com/)                   |
 | **🤖 AI Chatbot**         | Intelligent conversational AI assistant | Next.js, LLaMA                 | [Visit](https://chatbot-ai-two-zeta.vercel.app/)      |
 | **📝 Prompt Cody**        | Prompt management system                | Next.js, MySQL                 | [Visit](https://oclly-prompt.vercel.app/)             |

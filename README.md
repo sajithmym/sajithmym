@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sajith%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Sri%20Lanka&descAlignY=52&descSize=18"/>
 
 <!-- Typing SVG -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;React+%7C+Angular+%7C+Next.js+Developer;NestJS+%7C+Django+Backend+Expert;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Social Badges -->
@@ -38,12 +39,6 @@
 
 🎮 &nbsp; Fun fact: I love **gaming** & **gardening** 🌱
 
-</td>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/sajithmym/sajithmym/main/assets/metrics-languages.svg" width="100%" alt="Top Languages"/>
-
-</td>
 </tr>
 </table>
 
@@ -52,7 +47,7 @@
 <div align="center">
 
 ### 💬 Ask Me About
-  
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -69,6 +64,7 @@
 <div align="center">
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -78,12 +74,14 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -98,18 +96,17 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **🏪 Onadeyak.lk** | Full-featured e-commerce platform | React, NestJS, PostgreSQL, JWT | [Visit](https://onadeyak.lk/) |
-| **�� Gulf Sukuk** | Islamic finance investment platform | Next.js | [Visit](https://www.gulfsukuk.com/) |
-| **🤖 AI Chatbot** | Intelligent conversational AI assistant | Next.js, LLaMA | [Visit](https://chatbot-ai-two-zeta.vercel.app/) |
-| **📝 Prompt Cody** | Prompt management system | Next.js, MySQL | [Visit](https://oclly-prompt.vercel.app/) |
-| **�� Quran Sura Player** | Audio player for all 114 Surahs | Next.js | [Visit](https://quran-sura-player.vercel.app/) |
-| **📱 Haadi QR Generator** | QR & Barcode generation tool | Next.js | [Visit](https://haadi-qr-and-brcode.vercel.app/) |
-| **🎵 Music Player** | Desktop music player application | Python | [Visit](https://sajithmym.netlify.app/Python_Project) |
+| Project                   | Description                             | Tech Stack                     | Link                                                  |
+| ------------------------- | --------------------------------------- | ------------------------------ | ----------------------------------------------------- |
+| **🏪 shanikava.lk**       | Full-featured e-commerce platform       | React, NestJS, PostgreSQL, JWT | [Visit](https://shanikava.lk/)                        |
+| **�� Gulf Sukuk**         | Islamic finance investment platform     | Next.js                        | [Visit](https://www.gulfsukuk.com/)                   |
+| **🤖 AI Chatbot**         | Intelligent conversational AI assistant | Next.js, LLaMA                 | [Visit](https://chatbot-ai-two-zeta.vercel.app/)      |
+| **📝 Prompt Cody**        | Prompt management system                | Next.js, MySQL                 | [Visit](https://oclly-prompt.vercel.app/)             |
+| **�� Quran Sura Player**  | Audio player for all 114 Surahs         | Next.js                        | [Visit](https://quran-sura-player.vercel.app/)        |
+| **📱 Haadi QR Generator** | QR & Barcode generation tool            | Next.js                        | [Visit](https://haadi-qr-and-brcode.vercel.app/)      |
+| **🎵 Music Player**       | Desktop music player application        | Python                         | [Visit](https://sajithmym.netlify.app/Python_Project) |
 
 </div>
-
 
 ## 🤝 Connect With Me
 
